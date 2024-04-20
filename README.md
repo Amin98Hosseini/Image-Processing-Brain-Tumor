@@ -34,17 +34,3 @@ The objective of this assignment is to implement various image processing techni
    - Display the original image along with its converted versions in each color space.
    - Compare and analyze the differences in representation among different color spaces.
 
-## Submission Requirements
-- Students should submit their solutions in a Jupyter Notebook (.ipynb) format.
-- Each task should be clearly labeled with appropriate headings and explanations.
-- Include code implementations, sample input images, and output images for each task.
-- Provide explanations for the implemented techniques and any observations or insights gained during the experimentation.
-- Ensure the code is well-commented and structured for readability.
-
-## Evaluation Criteria
-- Correctness and completeness of the implemented functions.
-- Clarity and organization of the code and explanations.
-- Accuracy of the results obtained from image processing techniques.
-- Creativity and depth of analysis in comparing different color spaces and clustering techniques.
-- Adherence to submission requirements and overall presentation quality.
-

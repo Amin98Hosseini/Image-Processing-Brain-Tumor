@@ -34,3 +34,13 @@ The objective of this assignment is to implement various image processing techni
    - Display the original image along with its converted versions in each color space.
    - Compare and analyze the differences in representation among different color spaces.
 
+## Support Me
+<a href="https://www.coffeebede.com/amin98hosseini">
+  <img 
+    class="img-fluid" 
+    src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" 
+    width="150" 
+    height="50" 
+    alt="Buy Me a Coffee" 
+  />
+</a>
